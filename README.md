@@ -1,4 +1,4 @@
-# project-NLP
+# Movies Reviews Sentiment Analysis
 - Movie reviews help users decide if the movie is worth their time. 
 - A summary of all reviews for a movie can help users make this decision by not wasting their time reading all reviews. 
 - Movie-rating websites are often used by critics to post comments and rate movies which help viewers decide if the movie is worth watching.
